@@ -1,0 +1,12 @@
+IPython
+matplotlib
+nltk
+pandas
+plotly
+pydotplus
+re
+scikit-learn
+seaborn
+string
+unicodedata
+warnings
